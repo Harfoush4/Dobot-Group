@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+SpeechRecognition
+google-generativeai
+pillow
+pydobot
+numpy
+ultralytics
+tk
