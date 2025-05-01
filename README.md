@@ -64,7 +64,7 @@ python main.py
 ---
 
 ## Requirements
-- Python 3.8+
+- Python 3.8+ (donn't use python above 3.9 because it probably won't work with mediapipe) **Recommended 3.9**
 - Dobot Magician + pydobot
 - Webcam (for gesture and object recognition)
 - Google Gemini API access
